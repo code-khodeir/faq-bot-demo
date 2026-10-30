@@ -1,0 +1,23 @@
+[
+  {"category": "ordering", "q": "How do I place an order?", "a": "Head to brew-and-bean.example/shop, pick your beans, and check out — card or PayPal. You'll get a confirmation email with tracking once it ships."},
+  {"category": "ordering", "q": "Do you offer decaf?", "a": "Yes — Decaf Midnight is our Swiss-water processed decaf, available in whole bean or ground. It's on the shop page under 'Decaf'."},
+  {"category": "ordering", "q": "Can I order as a gift?", "a": "Absolutely. Choose 'This is a gift' at checkout to add a note and have it shipped without prices. Gift cards are at brew-and-bean.example/gift."},
+  {"category": "ordering", "q": "What payment methods do you accept?", "a": "Cards (Visa, Mastercard, Amex) and PayPal. Subscriptions are charged to the card on file on the 1st of each month."},
+  {"category": "shipping", "q": "How long does shipping take?", "a": "We roast to order and ship within 1-2 business days. Standard delivery is 2-5 business days; express is next-day in most metros. You'll get a tracking link by email."},
+  {"category": "shipping", "q": "Do you ship internationally?", "a": "We ship to the US, Canada, and the EU. International orders take 5-10 business days, and duties are the recipient's responsibility."},
+  {"category": "shipping", "q": "Is shipping free?", "a": "Standard shipping is free on orders over $35. Under that, it's a flat $4.95. Express starts at $9.95."},
+  {"category": "shipping", "q": "My order is late, where is it?", "a": "Check the tracking link in your email first. If it's been more than 7 business days, email support at support@example.com with your order number and we'll investigate within 24 hours."},
+  {"category": "subscription", "q": "How does the coffee subscription work?", "a": "Pick a blend and a cadence (every 2 or 4 weeks) and we roast + ship on that schedule. You can pause, swap blends, or cancel anytime from the Manage Plan page."},
+  {"category": "subscription", "q": "When is my next roast shipped?", "a": "Your plan page shows the next ship date. We roast the morning of dispatch, so what arrives is never more than a week off roast."},
+  {"category": "subscription", "q": "Can I pause my plan?", "a": "Yes — pause from the Manage Plan page up to 48 hours before the next ship date. Your beans, frequency, and discounts stay intact while paused."},
+  {"category": "subscription", "q": "How do I cancel my subscription?", "a": "Cancel anytime from Manage Plan > Cancel. You'll keep access until the end of the current billing period, and unused credit gets refunded."},
+  {"category": "subscription", "q": "What if I want to switch blends?", "a": "Swap your blend on the Manage Plan page before the next roast — the change applies to the upcoming shipment. If you're mid-cycle, both blends ship separately with no extra fee."},
+  {"category": "product", "q": "When was my coffee roasted?", "a": "Every bag is stamped with a Roast Date. We ship within 1-2 days of roasting, so your bag is usually 3-5 days off roast when it lands."},
+  {"category": "product", "q": "What grind should I choose?", "a": "If you use a drip machine or pour-over, choose 'Medium'. Espresso machines want 'Fine', French press wants 'Coarse'. Whole bean stays fresh longest."},
+  {"category": "product", "q": "How should I store my beans?", "a": "Keep them in the bag's one-way valve pouch, in a cool dark cupboard. Don't refrigerate — temperature swings stale coffee fast. Use within 4 weeks of the roast date."},
+  {"category": "refunds", "q": "What's your refund policy?", "a": "If a bag lands stale, damaged, or just isn't for you, email support within 14 days and we refund or replace — no return shipping needed."},
+  {"category": "refunds", "q": "How do I get a refund?", "a": "Email support@example.com with your order number and a one-line reason. Refunds go back to the original payment method within 5-7 business days."},
+  {"category": "refunds", "q": "My bag arrived damaged, what now?", "a": "Sorry about that — email a photo to support@example.com and we'll ship a replacement the same day, free."},
+  {"category": "contact", "q": "How do I contact a human?", "a": "Email support@example.com — real humans, replies within a few hours on weekdays. For urgent order issues, mention 'urgent' in the subject line."},
+  {"category": "contact", "q": "Do you have a physical store?", "a": "We're online-first, but you can find our beans at the farmers market stand in Portland every Saturday."}
+]

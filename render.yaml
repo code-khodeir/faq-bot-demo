@@ -1,0 +1,15 @@
+# Render Blueprint — one-click deploy of the FAQ bot
+# Usage: push this repo to GitHub, then click the "Deploy to Render"
+# button in the README (or: New Blueprint in Render, connect repo).
+services:
+  - type: web
+    name: faq-bot-demo
+    runtime: python
+    plan: free
+    buildCommand: ""
+    startCommand: python3 server.py
+    healthCheckPath: /health
+    envVars:
+      # Optional: set OPENAI_API_KEY in Render dashboard for semantic search.
+      - key: OPENAI_API_KEY
+        sync: false
