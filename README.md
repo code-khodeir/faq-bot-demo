@@ -34,7 +34,16 @@ Cost: pennies for a 20-question FAQ.
 - Delete faqs_emb.json if you change the FAQ content.
 - The chat UI theme/brand text live at the top of server.py (PAGE string).
 
-## Deploy (free options)
+## Deploy it live in one click (free)
+
+Repo: https://github.com/code-khodeir/faq-bot-demo
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/code-khodeir/faq-bot-demo)
+
+Click the button, connect the repo in the Render dialog, and the bot goes
+live with a public URL in ~2 minutes (S0 plan = free forever, no card).
+
+Other options:
 
 - Render/Railway free tier: new web service, start command `python3 server.py`,
   env PORT is set automatically. 10 minutes.
